@@ -2,8 +2,8 @@ void main() {
   // 1. Datos del análisis (Basado en proyecciones 2025)
   // Nota: Históricamente iOS mantiene un gasto mayor por usuario
   List<Map<String, dynamic>> datosPlataformas = [
-    {'nombre': 'Android', 'gastoPromedio': 8.50, 'recaudacion2025': 45000},
-    {'nombre': 'iOS', 'gastoPromedio': 12.75, 'recaudacion2025': 89000},
+    {'nombre': 'Android', 'gastoPromedio': 8.50},
+    {'nombre': 'iOS', 'gastoPromedio': 12.75},
   ];
 
   print('--- Análisis de Monetización de Startup ---');
